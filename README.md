@@ -1,0 +1,1 @@
+- 👋 Quantooom mid life crisis, late starter, currently undertaking a fullstack web development bootcamp.
