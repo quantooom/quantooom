@@ -1,1 +1,1 @@
-- 👋 Quantooom mid life crisis, late starter, currently undertaking a fullstack web development bootcamp.
+- 👋 Quantooom mid life crisis, late starter, trying a bit of JS and a bit of Python
