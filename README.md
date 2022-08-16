@@ -1,1 +1,1 @@
-- 👋 Quantooom mid life crisis, late starter, trying a bit of JS and a bit of Python
+- 👋 In need of a career change and starting the Odin Project August 2022. 
