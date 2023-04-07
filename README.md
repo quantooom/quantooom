@@ -1,1 +1,1 @@
-- 👋 In need of a career change and starting the Odin Project August 2022. 
+- 👋 Pleb learning Computer Science with the OSSU.
